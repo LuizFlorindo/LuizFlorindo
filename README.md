@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Luiz da Silva 🤚
-[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](../../../../../../www.linkedin.com/in/devluizsilvaofc)
+<a href="www.linkedin.com/in/devluizsilvaofc">
+ [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+</a>
 
 ![LuizFlorindo GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFlorindo&show_icons=true&theme=dracula)
 
