@@ -1,5 +1,10 @@
 ### Olá! Eu sou o Luiz da Silva 🤚
 
+## Sobre Mim
+<p>
+ Sou um desenvolvedor front-end apaixonado por tecnologia. Meu objetivo é criar experiências digitais excepcionais para os    usuários e atualmente estou procurando novas oportunidades para aplicar minhas habilidades e conhecimentos em projetos  desafiadores e inovadores.
+</p>
+
 ![LuizFlorindo GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFlorindo&show_icons=true&theme=dracula)
 
 ## Redes Sociais
